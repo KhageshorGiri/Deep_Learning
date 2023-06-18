@@ -5,5 +5,8 @@ Learning deep learning
 * Tensorflow
 -------------------------------------------
 1. ANN
-2. CNN
-3. RNN
+   1. Linear Regression
+   2. Classification
+3. CNN
+   1. Image Classification
+5. RNN
